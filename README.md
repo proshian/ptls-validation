@@ -10,7 +10,7 @@ TODO: describe common file load features here
 Tabular file with id field(s) and target columns.
 This is a base for quality estimation.
 
-Id can be one ore many columns. dtypes can be string, int, date or datetime.
+Id can be one or many columns. dtypes can be string, int, date or datetime.
 Id columns are used for join with other filed. Names of columns should be identical across the files,
 and you can rename some columns when file loads.
 
